@@ -1,0 +1,7 @@
+metro_area,total_venues,total_searches,total_bookings,unfulfilled_searches,conversion_rate,potential_revenue_loss,action_required
+New York,81,4947,1820,3127,36.79,3043602.91,STABLE: Maintain
+San Francisco,190,4406,1654,2752,37.54,2054918.4,STABLE: Maintain
+Austin,40,4543,941,3602,20.71,1652741.68,URGENT: Add Supply
+Miami,45,4335,1519,2816,35.04,1545617.92,URGENT: Add Supply
+Los Angeles,155,4147,1606,2541,38.73,1469079.15,STABLE: Maintain
+Chicago,114,4154,1570,2584,37.79,1147864.48,STABLE: Maintain

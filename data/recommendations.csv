@@ -1,0 +1,6 @@
+metro,issue,action,priority,expected_impact
+San Francisco,Low Liquidity,Increase supply by -1% or boost marketing by -5%,Low,"$19,644 additional monthly revenue"
+Los Angeles,Low Liquidity,Increase supply by -2% or boost marketing by -7%,Low,"$25,501 additional monthly revenue"
+Chicago,Poor Conversion,Improve venue-search matching algorithm,Mid,"$44,002 additional monthly revenue"
+Austin,Poor Conversion,Improve venue-search matching algorithm,High,"$60,892 additional monthly revenue"
+Miami,Poor Conversion,Improve venue-search matching algorithm,High,"$65,559 additional monthly revenue"

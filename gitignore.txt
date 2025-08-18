@@ -1,0 +1,33 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Data files (if too large)
+*.db
+*.sqlite
+
+# Tableau
+*.twb
+*.tds
+*.hyper
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Credentials (if any)
+.env
+config.py
+credentials.json

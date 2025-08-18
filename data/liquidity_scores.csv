@@ -1,0 +1,7 @@
+metro_area,supply_count,demand_count,booking_count,conversion_score,utilization_score,balance_score,diversity_score,liquidity_score,market_health
+San Francisco,190,4406,990,37.54,52.11,34.05,100,49.68,Healthy
+Los Angeles,155,4147,964,38.73,62.19,16.23,100,48.16,Healthy
+Chicago,114,4154,950,37.79,83.33,-32.19,100,41.01,Healthy
+New York,81,4947,1102,36.79,100,-155.37,100,14.03,Moderate
+Miami,45,4335,903,35.04,100,-331.67,100,-30.65,Needs Attention
+Austin,40,4543,568,20.71,100,-417.88,100,-57.22,Needs Attention

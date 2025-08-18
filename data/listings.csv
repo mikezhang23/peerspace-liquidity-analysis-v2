@@ -1,0 +1,626 @@
+venue_id,host_id,metro_area,venue_type,price_per_hour,capacity,created_date,listing_title,is_active
+1,1,San Francisco,meeting_room,172.0,8,2024-08-11,Meeting Room in San Francisco,True
+2,1,San Francisco,workshop_space,135.0,33,2024-12-01,Workshop Space in San Francisco,False
+3,1,San Francisco,photo_studio,280.0,23,2023-01-13,Photo Studio in San Francisco,True
+4,1,San Francisco,photo_studio,320.0,7,2024-07-21,Photo Studio in San Francisco,True
+5,1,San Francisco,meeting_room,191.0,10,2024-09-28,Meeting Room in San Francisco,True
+6,1,San Francisco,event_space,193.0,28,2023-09-18,Event Space in San Francisco,True
+7,2,San Francisco,event_space,232.0,87,2023-04-08,Event Space in San Francisco,True
+8,2,San Francisco,meeting_room,111.0,14,2024-03-10,Meeting Room in San Francisco,True
+9,3,San Francisco,workshop_space,167.0,35,2023-12-24,Workshop Space in San Francisco,True
+10,3,San Francisco,photo_studio,303.0,22,2024-10-19,Photo Studio in San Francisco,True
+11,3,San Francisco,photo_studio,215.0,16,2023-03-17,Photo Studio in San Francisco,True
+12,3,San Francisco,event_space,261.0,29,2024-11-29,Event Space in San Francisco,True
+13,3,San Francisco,meeting_room,187.0,13,2024-02-13,Meeting Room in San Francisco,True
+14,3,San Francisco,workshop_space,195.0,21,2024-08-11,Workshop Space in San Francisco,True
+15,3,San Francisco,meeting_room,158.0,18,2023-11-19,Meeting Room in San Francisco,True
+16,4,San Francisco,meeting_room,149.0,16,2024-09-10,Meeting Room in San Francisco,True
+17,4,San Francisco,photo_studio,286.0,16,2023-05-01,Photo Studio in San Francisco,True
+18,4,San Francisco,rooftop,365.0,38,2024-09-05,Rooftop in San Francisco,True
+19,4,San Francisco,meeting_room,163.0,6,2023-10-13,Meeting Room in San Francisco,True
+20,4,San Francisco,photo_studio,306.0,29,2024-07-02,Photo Studio in San Francisco,True
+21,4,San Francisco,photo_studio,325.0,18,2024-06-11,Photo Studio in San Francisco,True
+22,5,San Francisco,event_space,263.0,64,2024-12-31,Event Space in San Francisco,True
+23,5,San Francisco,meeting_room,138.0,19,2024-02-21,Meeting Room in San Francisco,True
+24,5,San Francisco,photo_studio,202.0,23,2024-10-22,Photo Studio in San Francisco,True
+25,5,San Francisco,meeting_room,164.0,19,2024-07-15,Meeting Room in San Francisco,True
+26,6,San Francisco,event_space,186.0,65,2023-01-25,Event Space in San Francisco,True
+27,6,San Francisco,rooftop,327.0,86,2023-07-21,Rooftop in San Francisco,True
+28,6,San Francisco,meeting_room,107.0,13,2023-05-09,Meeting Room in San Francisco,True
+29,6,San Francisco,photo_studio,226.0,27,2024-01-28,Photo Studio in San Francisco,False
+30,6,San Francisco,photo_studio,224.0,10,2023-05-27,Photo Studio in San Francisco,True
+31,6,San Francisco,event_space,212.0,32,2023-02-26,Event Space in San Francisco,True
+32,6,San Francisco,event_space,256.0,75,2023-03-11,Event Space in San Francisco,False
+33,6,San Francisco,event_space,274.0,43,2024-06-20,Event Space in San Francisco,True
+34,6,San Francisco,meeting_room,147.0,18,2024-10-15,Meeting Room in San Francisco,True
+35,7,San Francisco,photo_studio,197.0,29,2024-12-16,Photo Studio in San Francisco,True
+36,8,San Francisco,workshop_space,144.0,36,2024-05-27,Workshop Space in San Francisco,True
+37,9,San Francisco,meeting_room,105.0,10,2023-09-23,Meeting Room in San Francisco,True
+38,9,San Francisco,photo_studio,316.0,22,2023-08-21,Photo Studio in San Francisco,True
+39,9,San Francisco,rooftop,314.0,98,2024-02-14,Rooftop in San Francisco,False
+40,9,San Francisco,event_space,273.0,36,2023-07-30,Event Space in San Francisco,False
+41,9,San Francisco,photo_studio,298.0,12,2024-08-31,Photo Studio in San Francisco,True
+42,9,San Francisco,photo_studio,195.0,9,2023-02-27,Photo Studio in San Francisco,True
+43,9,San Francisco,rooftop,247.0,118,2024-05-01,Rooftop in San Francisco,True
+44,9,San Francisco,photo_studio,263.0,28,2024-10-18,Photo Studio in San Francisco,False
+45,9,San Francisco,photo_studio,205.0,19,2023-08-01,Photo Studio in San Francisco,True
+46,10,San Francisco,workshop_space,221.0,31,2024-07-23,Workshop Space in San Francisco,True
+47,10,San Francisco,event_space,290.0,85,2023-07-09,Event Space in San Francisco,False
+48,11,San Francisco,meeting_room,165.0,19,2024-08-16,Meeting Room in San Francisco,True
+49,12,San Francisco,photo_studio,214.0,13,2024-05-30,Photo Studio in San Francisco,True
+50,12,San Francisco,photo_studio,232.0,18,2024-11-09,Photo Studio in San Francisco,False
+51,12,San Francisco,meeting_room,105.0,16,2023-03-20,Meeting Room in San Francisco,True
+52,12,San Francisco,event_space,253.0,67,2024-09-08,Event Space in San Francisco,False
+53,13,San Francisco,rooftop,308.0,131,2023-05-15,Rooftop in San Francisco,True
+54,13,San Francisco,meeting_room,138.0,18,2024-11-21,Meeting Room in San Francisco,True
+55,13,San Francisco,meeting_room,114.0,16,2023-11-11,Meeting Room in San Francisco,True
+56,14,San Francisco,rooftop,253.0,55,2024-07-03,Rooftop in San Francisco,True
+57,14,San Francisco,photo_studio,243.0,28,2023-02-15,Photo Studio in San Francisco,True
+58,15,San Francisco,meeting_room,176.0,6,2024-11-22,Meeting Room in San Francisco,True
+59,15,San Francisco,workshop_space,176.0,28,2024-05-12,Workshop Space in San Francisco,True
+60,15,San Francisco,event_space,195.0,30,2024-03-21,Event Space in San Francisco,True
+61,15,San Francisco,photo_studio,326.0,14,2024-12-03,Photo Studio in San Francisco,True
+62,16,San Francisco,meeting_room,192.0,8,2024-09-11,Meeting Room in San Francisco,True
+63,16,San Francisco,workshop_space,173.0,59,2024-09-04,Workshop Space in San Francisco,True
+64,16,San Francisco,meeting_room,169.0,5,2023-06-29,Meeting Room in San Francisco,True
+65,17,San Francisco,photo_studio,221.0,17,2023-02-20,Photo Studio in San Francisco,True
+66,17,San Francisco,photo_studio,209.0,27,2023-07-31,Photo Studio in San Francisco,True
+67,17,San Francisco,event_space,197.0,34,2023-10-28,Event Space in San Francisco,True
+68,17,San Francisco,photo_studio,217.0,20,2023-11-12,Photo Studio in San Francisco,True
+69,17,San Francisco,meeting_room,144.0,13,2023-03-02,Meeting Room in San Francisco,True
+70,17,San Francisco,photo_studio,272.0,25,2024-07-11,Photo Studio in San Francisco,True
+71,17,San Francisco,photo_studio,289.0,9,2024-05-05,Photo Studio in San Francisco,True
+72,17,San Francisco,meeting_room,107.0,8,2023-09-02,Meeting Room in San Francisco,True
+73,18,San Francisco,event_space,277.0,68,2023-01-18,Event Space in San Francisco,True
+74,18,San Francisco,meeting_room,167.0,18,2024-09-13,Meeting Room in San Francisco,True
+75,18,San Francisco,workshop_space,201.0,35,2023-06-10,Workshop Space in San Francisco,True
+76,19,San Francisco,event_space,266.0,75,2023-06-08,Event Space in San Francisco,True
+77,20,San Francisco,workshop_space,192.0,47,2023-08-03,Workshop Space in San Francisco,True
+78,21,San Francisco,event_space,179.0,89,2023-09-28,Event Space in San Francisco,True
+79,21,San Francisco,photo_studio,313.0,19,2023-03-31,Photo Studio in San Francisco,True
+80,21,San Francisco,photo_studio,227.0,15,2023-06-27,Photo Studio in San Francisco,False
+81,21,San Francisco,event_space,178.0,41,2023-11-03,Event Space in San Francisco,True
+82,21,San Francisco,event_space,185.0,56,2023-05-13,Event Space in San Francisco,True
+83,21,San Francisco,workshop_space,188.0,36,2024-01-06,Workshop Space in San Francisco,True
+84,21,San Francisco,workshop_space,216.0,39,2023-06-21,Workshop Space in San Francisco,True
+85,22,San Francisco,event_space,194.0,61,2023-11-29,Event Space in San Francisco,True
+86,22,San Francisco,event_space,180.0,60,2024-08-23,Event Space in San Francisco,True
+87,22,San Francisco,rooftop,317.0,112,2024-10-07,Rooftop in San Francisco,True
+88,22,San Francisco,event_space,164.0,53,2024-05-29,Event Space in San Francisco,True
+89,22,San Francisco,workshop_space,156.0,57,2023-10-27,Workshop Space in San Francisco,True
+90,22,San Francisco,meeting_room,154.0,19,2024-01-08,Meeting Room in San Francisco,True
+91,22,San Francisco,rooftop,217.0,40,2024-04-22,Rooftop in San Francisco,True
+92,22,San Francisco,meeting_room,116.0,15,2023-06-03,Meeting Room in San Francisco,True
+93,22,San Francisco,meeting_room,138.0,14,2024-09-05,Meeting Room in San Francisco,True
+94,22,San Francisco,event_space,236.0,94,2023-05-22,Event Space in San Francisco,True
+95,23,San Francisco,event_space,254.0,30,2023-01-24,Event Space in San Francisco,True
+96,23,San Francisco,photo_studio,238.0,22,2024-08-30,Photo Studio in San Francisco,True
+97,23,San Francisco,meeting_room,153.0,14,2024-10-22,Meeting Room in San Francisco,True
+98,23,San Francisco,workshop_space,215.0,19,2023-12-27,Workshop Space in San Francisco,True
+99,24,San Francisco,photo_studio,260.0,24,2023-03-06,Photo Studio in San Francisco,True
+100,25,San Francisco,event_space,223.0,57,2023-05-05,Event Space in San Francisco,True
+101,26,San Francisco,workshop_space,135.0,54,2024-04-26,Workshop Space in San Francisco,True
+102,26,San Francisco,photo_studio,243.0,18,2024-02-03,Photo Studio in San Francisco,True
+103,26,San Francisco,workshop_space,163.0,54,2023-01-13,Workshop Space in San Francisco,True
+104,26,San Francisco,event_space,183.0,43,2023-11-11,Event Space in San Francisco,True
+105,27,San Francisco,photo_studio,294.0,18,2024-12-14,Photo Studio in San Francisco,False
+106,27,San Francisco,photo_studio,239.0,20,2023-09-04,Photo Studio in San Francisco,True
+107,27,San Francisco,rooftop,309.0,77,2023-09-24,Rooftop in San Francisco,True
+108,27,San Francisco,meeting_room,122.0,6,2023-07-02,Meeting Room in San Francisco,True
+109,27,San Francisco,meeting_room,171.0,9,2023-05-08,Meeting Room in San Francisco,True
+110,27,San Francisco,meeting_room,114.0,7,2024-05-13,Meeting Room in San Francisco,True
+111,27,San Francisco,photo_studio,210.0,8,2024-11-06,Photo Studio in San Francisco,True
+112,27,San Francisco,meeting_room,183.0,12,2024-12-19,Meeting Room in San Francisco,True
+113,27,San Francisco,event_space,182.0,28,2023-08-30,Event Space in San Francisco,True
+114,27,San Francisco,event_space,235.0,76,2024-07-29,Event Space in San Francisco,True
+115,27,San Francisco,event_space,292.0,33,2023-11-01,Event Space in San Francisco,True
+116,28,San Francisco,meeting_room,152.0,11,2023-10-05,Meeting Room in San Francisco,True
+117,28,San Francisco,event_space,234.0,29,2024-09-21,Event Space in San Francisco,True
+118,28,San Francisco,meeting_room,164.0,7,2024-07-07,Meeting Room in San Francisco,True
+119,28,San Francisco,event_space,251.0,60,2024-11-28,Event Space in San Francisco,True
+120,29,San Francisco,photo_studio,263.0,22,2024-04-05,Photo Studio in San Francisco,True
+121,29,San Francisco,photo_studio,340.0,17,2023-06-23,Photo Studio in San Francisco,True
+122,29,San Francisco,meeting_room,118.0,5,2024-02-21,Meeting Room in San Francisco,True
+123,30,San Francisco,rooftop,289.0,90,2024-02-24,Rooftop in San Francisco,True
+124,31,San Francisco,event_space,224.0,31,2024-11-21,Event Space in San Francisco,True
+125,32,San Francisco,photo_studio,193.0,12,2023-02-10,Photo Studio in San Francisco,True
+126,32,San Francisco,rooftop,390.0,113,2024-03-31,Rooftop in San Francisco,True
+127,33,San Francisco,meeting_room,152.0,11,2024-03-22,Meeting Room in San Francisco,True
+128,33,San Francisco,photo_studio,269.0,9,2024-01-10,Photo Studio in San Francisco,True
+129,33,San Francisco,meeting_room,119.0,11,2023-08-12,Meeting Room in San Francisco,True
+130,34,San Francisco,workshop_space,185.0,35,2024-02-13,Workshop Space in San Francisco,True
+131,34,San Francisco,workshop_space,219.0,52,2024-12-30,Workshop Space in San Francisco,True
+132,34,San Francisco,event_space,183.0,52,2023-08-09,Event Space in San Francisco,True
+133,35,San Francisco,meeting_room,154.0,18,2023-10-10,Meeting Room in San Francisco,True
+134,35,San Francisco,meeting_room,162.0,16,2023-01-05,Meeting Room in San Francisco,True
+135,35,San Francisco,photo_studio,204.0,29,2024-09-06,Photo Studio in San Francisco,True
+136,35,San Francisco,workshop_space,180.0,47,2023-07-29,Workshop Space in San Francisco,True
+137,35,San Francisco,event_space,221.0,59,2024-08-05,Event Space in San Francisco,True
+138,36,San Francisco,event_space,276.0,89,2024-03-24,Event Space in San Francisco,True
+139,37,San Francisco,event_space,264.0,45,2024-12-29,Event Space in San Francisco,True
+140,37,San Francisco,photo_studio,351.0,18,2024-08-01,Photo Studio in San Francisco,True
+141,37,San Francisco,event_space,260.0,53,2024-02-06,Event Space in San Francisco,True
+142,38,San Francisco,meeting_room,139.0,17,2023-11-07,Meeting Room in San Francisco,False
+143,39,San Francisco,photo_studio,320.0,16,2023-02-21,Photo Studio in San Francisco,True
+144,39,San Francisco,meeting_room,192.0,6,2023-05-07,Meeting Room in San Francisco,True
+145,39,San Francisco,workshop_space,137.0,55,2024-12-16,Workshop Space in San Francisco,True
+146,39,San Francisco,photo_studio,214.0,18,2024-04-04,Photo Studio in San Francisco,True
+147,39,San Francisco,photo_studio,327.0,26,2023-07-04,Photo Studio in San Francisco,True
+148,39,San Francisco,photo_studio,312.0,27,2024-11-25,Photo Studio in San Francisco,True
+149,39,San Francisco,photo_studio,236.0,12,2024-09-30,Photo Studio in San Francisco,True
+150,39,San Francisco,photo_studio,330.0,17,2023-01-21,Photo Studio in San Francisco,True
+151,39,San Francisco,event_space,165.0,51,2023-10-17,Event Space in San Francisco,True
+152,39,San Francisco,photo_studio,317.0,11,2024-10-12,Photo Studio in San Francisco,True
+153,39,San Francisco,photo_studio,270.0,20,2024-05-08,Photo Studio in San Francisco,True
+154,39,San Francisco,meeting_room,106.0,17,2024-03-12,Meeting Room in San Francisco,True
+155,39,San Francisco,event_space,204.0,69,2023-03-18,Event Space in San Francisco,True
+156,39,San Francisco,event_space,198.0,99,2023-08-25,Event Space in San Francisco,True
+157,39,San Francisco,event_space,197.0,77,2024-12-09,Event Space in San Francisco,True
+158,39,San Francisco,meeting_room,156.0,15,2024-11-11,Meeting Room in San Francisco,True
+159,40,San Francisco,workshop_space,224.0,49,2024-05-10,Workshop Space in San Francisco,True
+160,40,San Francisco,photo_studio,290.0,22,2023-02-25,Photo Studio in San Francisco,True
+161,40,San Francisco,meeting_room,161.0,5,2023-10-07,Meeting Room in San Francisco,False
+162,40,San Francisco,meeting_room,187.0,9,2023-11-02,Meeting Room in San Francisco,True
+163,40,San Francisco,event_space,289.0,64,2024-03-27,Event Space in San Francisco,True
+164,40,San Francisco,workshop_space,178.0,51,2024-01-20,Workshop Space in San Francisco,True
+165,40,San Francisco,meeting_room,173.0,8,2023-02-08,Meeting Room in San Francisco,True
+166,41,San Francisco,rooftop,355.0,78,2023-11-23,Rooftop in San Francisco,False
+167,41,San Francisco,event_space,248.0,75,2023-05-13,Event Space in San Francisco,True
+168,41,San Francisco,event_space,249.0,60,2023-04-07,Event Space in San Francisco,True
+169,41,San Francisco,rooftop,250.0,44,2023-09-13,Rooftop in San Francisco,True
+170,41,San Francisco,event_space,176.0,95,2024-02-24,Event Space in San Francisco,True
+171,41,San Francisco,meeting_room,153.0,10,2023-12-18,Meeting Room in San Francisco,True
+172,42,San Francisco,rooftop,285.0,121,2024-07-26,Rooftop in San Francisco,True
+173,42,San Francisco,workshop_space,192.0,57,2024-03-20,Workshop Space in San Francisco,False
+174,42,San Francisco,event_space,286.0,89,2024-09-21,Event Space in San Francisco,True
+175,42,San Francisco,rooftop,326.0,44,2024-03-24,Rooftop in San Francisco,True
+176,42,San Francisco,workshop_space,175.0,44,2023-03-15,Workshop Space in San Francisco,True
+177,43,San Francisco,meeting_room,135.0,19,2023-06-02,Meeting Room in San Francisco,True
+178,44,San Francisco,photo_studio,284.0,25,2024-05-07,Photo Studio in San Francisco,True
+179,44,San Francisco,rooftop,211.0,134,2024-08-05,Rooftop in San Francisco,True
+180,44,San Francisco,workshop_space,138.0,53,2024-08-19,Workshop Space in San Francisco,False
+181,45,San Francisco,meeting_room,134.0,7,2024-11-08,Meeting Room in San Francisco,True
+182,45,San Francisco,meeting_room,111.0,11,2023-12-27,Meeting Room in San Francisco,True
+183,45,San Francisco,event_space,285.0,28,2023-02-26,Event Space in San Francisco,True
+184,45,San Francisco,rooftop,221.0,91,2023-11-16,Rooftop in San Francisco,True
+185,45,San Francisco,photo_studio,261.0,27,2024-02-06,Photo Studio in San Francisco,True
+186,45,San Francisco,meeting_room,162.0,13,2024-02-03,Meeting Room in San Francisco,True
+187,45,San Francisco,meeting_room,150.0,11,2023-01-13,Meeting Room in San Francisco,True
+188,45,San Francisco,workshop_space,186.0,53,2023-10-18,Workshop Space in San Francisco,True
+189,45,San Francisco,event_space,219.0,56,2024-09-25,Event Space in San Francisco,True
+190,45,San Francisco,meeting_room,191.0,15,2023-09-03,Meeting Room in San Francisco,False
+191,46,Los Angeles,event_space,206.0,52,2024-08-20,Event Space in Los Angeles,True
+192,46,Los Angeles,photo_studio,194.0,10,2024-01-04,Photo Studio in Los Angeles,True
+193,47,Los Angeles,event_space,225.0,28,2024-03-12,Event Space in Los Angeles,True
+194,47,Los Angeles,photo_studio,179.0,22,2024-05-16,Photo Studio in Los Angeles,True
+195,47,Los Angeles,photo_studio,166.0,13,2024-05-14,Photo Studio in Los Angeles,True
+196,48,Los Angeles,rooftop,286.0,106,2023-03-14,Rooftop in Los Angeles,True
+197,48,Los Angeles,photo_studio,241.0,8,2024-03-27,Photo Studio in Los Angeles,True
+198,48,Los Angeles,event_space,127.0,90,2023-06-01,Event Space in Los Angeles,True
+199,48,Los Angeles,photo_studio,277.0,9,2023-07-07,Photo Studio in Los Angeles,True
+200,48,Los Angeles,event_space,166.0,79,2023-05-30,Event Space in Los Angeles,True
+201,49,Los Angeles,meeting_room,138.0,5,2024-10-09,Meeting Room in Los Angeles,True
+202,49,Los Angeles,event_space,174.0,45,2023-07-26,Event Space in Los Angeles,True
+203,49,Los Angeles,meeting_room,133.0,12,2023-02-17,Meeting Room in Los Angeles,True
+204,49,Los Angeles,rooftop,176.0,60,2024-05-29,Rooftop in Los Angeles,True
+205,50,Los Angeles,meeting_room,93.0,12,2023-10-18,Meeting Room in Los Angeles,True
+206,50,Los Angeles,photo_studio,216.0,26,2024-01-04,Photo Studio in Los Angeles,False
+207,51,Los Angeles,meeting_room,85.0,18,2024-02-15,Meeting Room in Los Angeles,True
+208,51,Los Angeles,photo_studio,205.0,10,2024-12-10,Photo Studio in Los Angeles,True
+209,51,Los Angeles,rooftop,234.0,115,2023-12-27,Rooftop in Los Angeles,False
+210,52,Los Angeles,meeting_room,126.0,12,2023-11-22,Meeting Room in Los Angeles,True
+211,53,Los Angeles,meeting_room,140.0,6,2023-03-24,Meeting Room in Los Angeles,True
+212,53,Los Angeles,rooftop,218.0,119,2023-03-12,Rooftop in Los Angeles,True
+213,53,Los Angeles,meeting_room,98.0,14,2023-03-01,Meeting Room in Los Angeles,False
+214,54,Los Angeles,photo_studio,211.0,20,2023-05-18,Photo Studio in Los Angeles,True
+215,55,Los Angeles,photo_studio,234.0,21,2023-03-30,Photo Studio in Los Angeles,True
+216,55,Los Angeles,event_space,194.0,84,2023-05-06,Event Space in Los Angeles,False
+217,55,Los Angeles,event_space,175.0,29,2024-03-13,Event Space in Los Angeles,False
+218,56,Los Angeles,workshop_space,154.0,37,2023-09-15,Workshop Space in Los Angeles,True
+219,57,Los Angeles,photo_studio,157.0,27,2023-05-26,Photo Studio in Los Angeles,True
+220,57,Los Angeles,event_space,142.0,29,2024-09-17,Event Space in Los Angeles,True
+221,58,Los Angeles,rooftop,180.0,110,2024-11-21,Rooftop in Los Angeles,True
+222,58,Los Angeles,event_space,182.0,36,2023-12-16,Event Space in Los Angeles,True
+223,58,Los Angeles,workshop_space,159.0,17,2023-03-26,Workshop Space in Los Angeles,True
+224,58,Los Angeles,meeting_room,133.0,9,2023-02-28,Meeting Room in Los Angeles,True
+225,58,Los Angeles,meeting_room,90.0,14,2024-01-08,Meeting Room in Los Angeles,True
+226,58,Los Angeles,photo_studio,168.0,23,2024-10-06,Photo Studio in Los Angeles,True
+227,58,Los Angeles,workshop_space,171.0,45,2023-01-30,Workshop Space in Los Angeles,True
+228,58,Los Angeles,photo_studio,217.0,7,2024-02-19,Photo Studio in Los Angeles,True
+229,58,Los Angeles,rooftop,238.0,62,2024-08-13,Rooftop in Los Angeles,True
+230,58,Los Angeles,workshop_space,145.0,39,2023-07-11,Workshop Space in Los Angeles,False
+231,58,Los Angeles,workshop_space,112.0,31,2024-07-18,Workshop Space in Los Angeles,True
+232,58,Los Angeles,photo_studio,268.0,23,2024-11-17,Photo Studio in Los Angeles,True
+233,58,Los Angeles,meeting_room,116.0,9,2023-09-29,Meeting Room in Los Angeles,True
+234,58,Los Angeles,rooftop,281.0,139,2024-06-16,Rooftop in Los Angeles,True
+235,59,Los Angeles,rooftop,234.0,69,2023-12-06,Rooftop in Los Angeles,True
+236,59,Los Angeles,meeting_room,98.0,14,2024-04-19,Meeting Room in Los Angeles,False
+237,59,Los Angeles,event_space,227.0,78,2023-07-22,Event Space in Los Angeles,True
+238,59,Los Angeles,workshop_space,124.0,55,2024-08-03,Workshop Space in Los Angeles,True
+239,59,Los Angeles,rooftop,286.0,137,2024-12-04,Rooftop in Los Angeles,True
+240,59,Los Angeles,event_space,168.0,31,2024-05-16,Event Space in Los Angeles,False
+241,60,Los Angeles,workshop_space,157.0,50,2024-08-13,Workshop Space in Los Angeles,False
+242,61,Los Angeles,event_space,216.0,81,2023-09-08,Event Space in Los Angeles,True
+243,61,Los Angeles,meeting_room,102.0,17,2023-06-19,Meeting Room in Los Angeles,True
+244,61,Los Angeles,event_space,210.0,42,2024-08-29,Event Space in Los Angeles,False
+245,61,Los Angeles,workshop_space,140.0,19,2023-08-08,Workshop Space in Los Angeles,True
+246,61,Los Angeles,event_space,152.0,35,2023-10-19,Event Space in Los Angeles,False
+247,61,Los Angeles,photo_studio,175.0,22,2023-07-14,Photo Studio in Los Angeles,True
+248,61,Los Angeles,event_space,181.0,99,2023-06-13,Event Space in Los Angeles,False
+249,62,Los Angeles,meeting_room,112.0,10,2024-12-15,Meeting Room in Los Angeles,True
+250,62,Los Angeles,meeting_room,131.0,6,2023-05-16,Meeting Room in Los Angeles,True
+251,62,Los Angeles,meeting_room,123.0,17,2024-07-05,Meeting Room in Los Angeles,True
+252,62,Los Angeles,rooftop,237.0,58,2024-08-15,Rooftop in Los Angeles,False
+253,63,Los Angeles,event_space,158.0,28,2024-06-10,Event Space in Los Angeles,True
+254,63,Los Angeles,event_space,169.0,86,2023-09-04,Event Space in Los Angeles,True
+255,64,Los Angeles,meeting_room,110.0,16,2023-03-01,Meeting Room in Los Angeles,True
+256,64,Los Angeles,event_space,222.0,80,2023-12-02,Event Space in Los Angeles,True
+257,64,Los Angeles,photo_studio,199.0,25,2024-04-02,Photo Studio in Los Angeles,True
+258,65,Los Angeles,meeting_room,127.0,17,2023-06-22,Meeting Room in Los Angeles,True
+259,65,Los Angeles,event_space,158.0,58,2023-10-22,Event Space in Los Angeles,True
+260,65,Los Angeles,event_space,204.0,93,2023-04-12,Event Space in Los Angeles,True
+261,65,Los Angeles,rooftop,304.0,45,2023-03-20,Rooftop in Los Angeles,True
+262,65,Los Angeles,photo_studio,172.0,8,2023-04-19,Photo Studio in Los Angeles,True
+263,65,Los Angeles,meeting_room,101.0,14,2023-12-27,Meeting Room in Los Angeles,True
+264,65,Los Angeles,photo_studio,239.0,28,2023-12-17,Photo Studio in Los Angeles,True
+265,65,Los Angeles,meeting_room,110.0,9,2024-03-21,Meeting Room in Los Angeles,True
+266,65,Los Angeles,photo_studio,216.0,16,2023-06-05,Photo Studio in Los Angeles,True
+267,66,Los Angeles,photo_studio,179.0,21,2023-01-21,Photo Studio in Los Angeles,True
+268,66,Los Angeles,meeting_room,145.0,11,2023-01-01,Meeting Room in Los Angeles,True
+269,66,Los Angeles,photo_studio,261.0,14,2024-01-11,Photo Studio in Los Angeles,True
+270,66,Los Angeles,meeting_room,106.0,7,2023-01-05,Meeting Room in Los Angeles,True
+271,66,Los Angeles,workshop_space,145.0,20,2024-06-09,Workshop Space in Los Angeles,True
+272,66,Los Angeles,event_space,165.0,67,2023-09-10,Event Space in Los Angeles,True
+273,66,Los Angeles,photo_studio,162.0,14,2023-08-29,Photo Studio in Los Angeles,True
+274,67,Los Angeles,workshop_space,107.0,58,2023-03-15,Workshop Space in Los Angeles,False
+275,67,Los Angeles,event_space,140.0,87,2023-06-16,Event Space in Los Angeles,True
+276,67,Los Angeles,rooftop,230.0,139,2024-11-05,Rooftop in Los Angeles,True
+277,67,Los Angeles,event_space,143.0,95,2024-05-15,Event Space in Los Angeles,True
+278,68,Los Angeles,workshop_space,174.0,26,2023-03-22,Workshop Space in Los Angeles,True
+279,68,Los Angeles,photo_studio,231.0,9,2023-03-16,Photo Studio in Los Angeles,True
+280,69,Los Angeles,meeting_room,131.0,15,2023-04-22,Meeting Room in Los Angeles,True
+281,70,Los Angeles,meeting_room,146.0,6,2023-03-16,Meeting Room in Los Angeles,True
+282,70,Los Angeles,meeting_room,125.0,14,2024-11-30,Meeting Room in Los Angeles,True
+283,70,Los Angeles,meeting_room,153.0,12,2023-01-30,Meeting Room in Los Angeles,True
+284,70,Los Angeles,photo_studio,172.0,16,2023-09-13,Photo Studio in Los Angeles,True
+285,70,Los Angeles,event_space,204.0,80,2024-01-13,Event Space in Los Angeles,True
+286,70,Los Angeles,event_space,187.0,48,2023-09-11,Event Space in Los Angeles,True
+287,70,Los Angeles,meeting_room,88.0,19,2023-04-11,Meeting Room in Los Angeles,True
+288,71,Los Angeles,rooftop,285.0,142,2024-02-15,Rooftop in Los Angeles,True
+289,71,Los Angeles,rooftop,235.0,136,2023-08-10,Rooftop in Los Angeles,False
+290,72,Los Angeles,event_space,230.0,41,2024-01-05,Event Space in Los Angeles,False
+291,72,Los Angeles,photo_studio,260.0,22,2024-03-14,Photo Studio in Los Angeles,True
+292,73,Los Angeles,event_space,221.0,79,2023-11-15,Event Space in Los Angeles,True
+293,73,Los Angeles,photo_studio,176.0,19,2024-10-17,Photo Studio in Los Angeles,True
+294,73,Los Angeles,event_space,215.0,71,2023-04-16,Event Space in Los Angeles,True
+295,74,Los Angeles,event_space,212.0,50,2023-12-23,Event Space in Los Angeles,True
+296,74,Los Angeles,event_space,180.0,28,2024-08-13,Event Space in Los Angeles,True
+297,75,Los Angeles,event_space,142.0,91,2024-08-10,Event Space in Los Angeles,True
+298,75,Los Angeles,meeting_room,155.0,16,2024-02-29,Meeting Room in Los Angeles,True
+299,75,Los Angeles,event_space,179.0,67,2023-09-02,Event Space in Los Angeles,True
+300,75,Los Angeles,photo_studio,278.0,20,2023-01-27,Photo Studio in Los Angeles,True
+301,75,Los Angeles,meeting_room,131.0,19,2023-05-19,Meeting Room in Los Angeles,True
+302,76,Los Angeles,photo_studio,173.0,21,2023-04-07,Photo Studio in Los Angeles,True
+303,76,Los Angeles,workshop_space,122.0,40,2023-01-14,Workshop Space in Los Angeles,True
+304,76,Los Angeles,event_space,142.0,76,2023-11-07,Event Space in Los Angeles,True
+305,76,Los Angeles,event_space,218.0,79,2023-01-09,Event Space in Los Angeles,True
+306,76,Los Angeles,event_space,198.0,64,2024-02-14,Event Space in Los Angeles,True
+307,76,Los Angeles,event_space,185.0,75,2023-02-03,Event Space in Los Angeles,True
+308,76,Los Angeles,photo_studio,176.0,13,2023-06-09,Photo Studio in Los Angeles,True
+309,77,Los Angeles,rooftop,279.0,116,2023-01-25,Rooftop in Los Angeles,True
+310,77,Los Angeles,event_space,227.0,84,2024-03-26,Event Space in Los Angeles,True
+311,77,Los Angeles,event_space,223.0,54,2024-01-13,Event Space in Los Angeles,True
+312,78,Los Angeles,meeting_room,105.0,15,2024-01-12,Meeting Room in Los Angeles,True
+313,78,Los Angeles,photo_studio,179.0,26,2024-03-29,Photo Studio in Los Angeles,True
+314,78,Los Angeles,meeting_room,128.0,13,2024-04-27,Meeting Room in Los Angeles,False
+315,79,Los Angeles,meeting_room,101.0,6,2024-01-28,Meeting Room in Los Angeles,True
+316,79,Los Angeles,workshop_space,101.0,39,2024-07-23,Workshop Space in Los Angeles,True
+317,80,Los Angeles,workshop_space,142.0,23,2024-03-12,Workshop Space in Los Angeles,True
+318,80,Los Angeles,rooftop,181.0,102,2023-07-03,Rooftop in Los Angeles,True
+319,81,Los Angeles,meeting_room,150.0,11,2024-07-04,Meeting Room in Los Angeles,True
+320,81,Los Angeles,workshop_space,169.0,23,2024-03-10,Workshop Space in Los Angeles,True
+321,81,Los Angeles,photo_studio,165.0,29,2024-03-15,Photo Studio in Los Angeles,True
+322,81,Los Angeles,event_space,222.0,35,2023-08-03,Event Space in Los Angeles,True
+323,81,Los Angeles,meeting_room,96.0,11,2024-04-12,Meeting Room in Los Angeles,True
+324,81,Los Angeles,event_space,158.0,75,2024-06-17,Event Space in Los Angeles,True
+325,82,Los Angeles,workshop_space,172.0,38,2024-10-04,Workshop Space in Los Angeles,True
+326,82,Los Angeles,rooftop,237.0,142,2024-12-25,Rooftop in Los Angeles,True
+327,82,Los Angeles,workshop_space,183.0,28,2023-05-25,Workshop Space in Los Angeles,False
+328,82,Los Angeles,photo_studio,159.0,10,2024-02-21,Photo Studio in Los Angeles,True
+329,82,Los Angeles,rooftop,296.0,124,2023-01-25,Rooftop in Los Angeles,True
+330,83,Los Angeles,meeting_room,128.0,8,2024-08-17,Meeting Room in Los Angeles,True
+331,83,Los Angeles,rooftop,222.0,116,2023-09-06,Rooftop in Los Angeles,True
+332,84,Los Angeles,workshop_space,167.0,45,2023-05-01,Workshop Space in Los Angeles,True
+333,84,Los Angeles,event_space,202.0,30,2023-06-03,Event Space in Los Angeles,True
+334,85,Los Angeles,rooftop,197.0,97,2024-07-16,Rooftop in Los Angeles,True
+335,85,Los Angeles,meeting_room,99.0,13,2024-09-29,Meeting Room in Los Angeles,True
+336,85,Los Angeles,meeting_room,93.0,11,2023-06-03,Meeting Room in Los Angeles,False
+337,85,Los Angeles,workshop_space,163.0,32,2024-12-28,Workshop Space in Los Angeles,True
+338,85,Los Angeles,meeting_room,109.0,5,2024-10-31,Meeting Room in Los Angeles,True
+339,85,Los Angeles,rooftop,173.0,83,2024-08-15,Rooftop in Los Angeles,True
+340,86,Los Angeles,photo_studio,206.0,29,2023-12-06,Photo Studio in Los Angeles,True
+341,87,Los Angeles,event_space,135.0,97,2023-06-28,Event Space in Los Angeles,True
+342,88,Los Angeles,meeting_room,155.0,10,2024-08-23,Meeting Room in Los Angeles,True
+343,88,Los Angeles,meeting_room,86.0,9,2023-02-11,Meeting Room in Los Angeles,True
+344,88,Los Angeles,event_space,151.0,59,2024-07-26,Event Space in Los Angeles,True
+345,89,Los Angeles,photo_studio,166.0,25,2023-10-29,Photo Studio in Los Angeles,True
+346,90,New York,meeting_room,148.0,13,2023-10-01,Meeting Room in New York,True
+347,91,New York,meeting_room,229.0,11,2024-05-06,Meeting Room in New York,True
+348,92,New York,workshop_space,188.0,59,2024-05-06,Workshop Space in New York,True
+349,93,New York,event_space,318.0,75,2024-02-07,Event Space in New York,True
+350,94,New York,rooftop,405.0,84,2024-03-25,Rooftop in New York,False
+351,95,New York,workshop_space,299.0,43,2023-10-21,Workshop Space in New York,True
+352,95,New York,event_space,326.0,53,2023-07-13,Event Space in New York,True
+353,95,New York,meeting_room,185.0,16,2023-09-04,Meeting Room in New York,True
+354,95,New York,workshop_space,189.0,35,2024-11-02,Workshop Space in New York,True
+355,96,New York,photo_studio,281.0,12,2024-06-06,Photo Studio in New York,True
+356,96,New York,event_space,277.0,65,2024-06-19,Event Space in New York,False
+357,96,New York,photo_studio,261.0,9,2023-05-10,Photo Studio in New York,True
+358,96,New York,event_space,367.0,49,2024-12-16,Event Space in New York,True
+359,96,New York,photo_studio,413.0,24,2024-04-27,Photo Studio in New York,True
+360,97,New York,event_space,253.0,49,2024-03-17,Event Space in New York,True
+361,97,New York,event_space,257.0,63,2023-08-10,Event Space in New York,True
+362,98,New York,photo_studio,417.0,14,2024-06-06,Photo Studio in New York,True
+363,98,New York,photo_studio,300.0,10,2024-04-08,Photo Studio in New York,True
+364,98,New York,photo_studio,316.0,11,2024-05-10,Photo Studio in New York,True
+365,99,New York,event_space,328.0,76,2024-04-12,Event Space in New York,True
+366,99,New York,photo_studio,412.0,17,2024-01-06,Photo Studio in New York,True
+367,100,New York,event_space,375.0,65,2023-03-15,Event Space in New York,True
+368,100,New York,workshop_space,179.0,51,2024-11-12,Workshop Space in New York,True
+369,100,New York,workshop_space,201.0,46,2024-12-22,Workshop Space in New York,True
+370,100,New York,meeting_room,217.0,19,2023-08-25,Meeting Room in New York,True
+371,100,New York,event_space,284.0,26,2024-03-25,Event Space in New York,True
+372,100,New York,event_space,336.0,57,2024-07-01,Event Space in New York,True
+373,100,New York,meeting_room,163.0,12,2024-01-04,Meeting Room in New York,True
+374,100,New York,event_space,283.0,67,2023-01-18,Event Space in New York,True
+375,100,New York,workshop_space,262.0,53,2024-11-29,Workshop Space in New York,False
+376,100,New York,photo_studio,264.0,7,2024-07-09,Photo Studio in New York,False
+377,101,New York,photo_studio,324.0,29,2024-09-25,Photo Studio in New York,True
+378,102,New York,meeting_room,248.0,15,2023-05-31,Meeting Room in New York,True
+379,102,New York,meeting_room,251.0,18,2023-06-03,Meeting Room in New York,True
+380,102,New York,workshop_space,170.0,24,2024-08-06,Workshop Space in New York,True
+381,103,New York,event_space,224.0,37,2024-04-29,Event Space in New York,True
+382,104,New York,photo_studio,369.0,16,2024-08-10,Photo Studio in New York,True
+383,104,New York,meeting_room,229.0,10,2024-09-22,Meeting Room in New York,True
+384,105,New York,event_space,348.0,96,2023-11-21,Event Space in New York,True
+385,105,New York,photo_studio,421.0,17,2024-05-12,Photo Studio in New York,True
+386,106,New York,event_space,332.0,74,2024-10-05,Event Space in New York,True
+387,106,New York,meeting_room,149.0,9,2023-12-08,Meeting Room in New York,True
+388,106,New York,photo_studio,320.0,9,2024-12-26,Photo Studio in New York,True
+389,106,New York,workshop_space,183.0,18,2023-10-17,Workshop Space in New York,True
+390,106,New York,event_space,215.0,51,2024-09-27,Event Space in New York,True
+391,107,New York,workshop_space,170.0,33,2024-10-06,Workshop Space in New York,True
+392,107,New York,rooftop,338.0,96,2023-01-30,Rooftop in New York,True
+393,107,New York,event_space,299.0,29,2023-10-13,Event Space in New York,True
+394,107,New York,workshop_space,220.0,57,2023-04-01,Workshop Space in New York,True
+395,107,New York,event_space,234.0,25,2023-11-22,Event Space in New York,True
+396,107,New York,workshop_space,215.0,30,2023-03-06,Workshop Space in New York,True
+397,107,New York,event_space,381.0,40,2024-02-14,Event Space in New York,True
+398,107,New York,event_space,342.0,72,2023-05-22,Event Space in New York,True
+399,107,New York,meeting_room,234.0,10,2023-06-03,Meeting Room in New York,True
+400,108,New York,meeting_room,232.0,5,2023-09-16,Meeting Room in New York,True
+401,108,New York,workshop_space,288.0,18,2023-11-09,Workshop Space in New York,True
+402,108,New York,event_space,255.0,36,2023-10-25,Event Space in New York,True
+403,108,New York,rooftop,395.0,82,2023-08-01,Rooftop in New York,True
+404,109,New York,event_space,217.0,97,2023-01-13,Event Space in New York,True
+405,109,New York,photo_studio,270.0,24,2023-02-27,Photo Studio in New York,True
+406,109,New York,photo_studio,374.0,22,2023-03-10,Photo Studio in New York,True
+407,110,New York,rooftop,383.0,38,2024-04-11,Rooftop in New York,True
+408,111,New York,photo_studio,401.0,12,2023-12-14,Photo Studio in New York,True
+409,112,New York,photo_studio,360.0,15,2024-12-06,Photo Studio in New York,True
+410,112,New York,rooftop,301.0,131,2024-08-08,Rooftop in New York,True
+411,112,New York,workshop_space,243.0,30,2024-09-23,Workshop Space in New York,True
+412,112,New York,event_space,264.0,85,2024-09-05,Event Space in New York,False
+413,112,New York,meeting_room,236.0,18,2024-04-26,Meeting Room in New York,True
+414,112,New York,event_space,287.0,59,2023-11-13,Event Space in New York,True
+415,112,New York,photo_studio,337.0,24,2024-06-12,Photo Studio in New York,True
+416,112,New York,meeting_room,166.0,9,2023-01-11,Meeting Room in New York,True
+417,112,New York,meeting_room,245.0,7,2024-02-02,Meeting Room in New York,True
+418,112,New York,photo_studio,358.0,29,2024-02-15,Photo Studio in New York,True
+419,112,New York,photo_studio,327.0,26,2023-04-09,Photo Studio in New York,True
+420,112,New York,workshop_space,300.0,41,2023-02-12,Workshop Space in New York,True
+421,112,New York,event_space,243.0,77,2023-07-27,Event Space in New York,True
+422,112,New York,photo_studio,343.0,18,2023-06-30,Photo Studio in New York,True
+423,112,New York,rooftop,413.0,92,2024-08-10,Rooftop in New York,True
+424,113,New York,photo_studio,439.0,28,2023-08-23,Photo Studio in New York,True
+425,114,New York,rooftop,401.0,93,2023-01-30,Rooftop in New York,True
+426,115,New York,event_space,240.0,67,2024-05-20,Event Space in New York,True
+427,115,Chicago,meeting_room,105.0,13,2023-08-12,Meeting Room in Chicago,True
+428,115,Chicago,meeting_room,105.0,17,2023-12-22,Meeting Room in Chicago,True
+429,116,Chicago,workshop_space,104.0,24,2023-10-23,Workshop Space in Chicago,True
+430,117,Chicago,workshop_space,95.0,59,2023-09-28,Workshop Space in Chicago,True
+431,118,Chicago,meeting_room,110.0,6,2024-05-03,Meeting Room in Chicago,True
+432,119,Chicago,photo_studio,197.0,21,2023-10-20,Photo Studio in Chicago,True
+433,119,Chicago,meeting_room,74.0,5,2024-01-07,Meeting Room in Chicago,True
+434,119,Chicago,meeting_room,116.0,9,2023-05-25,Meeting Room in Chicago,True
+435,120,Chicago,rooftop,199.0,48,2023-11-06,Rooftop in Chicago,True
+436,121,Chicago,workshop_space,84.0,53,2024-04-20,Workshop Space in Chicago,True
+437,121,Chicago,meeting_room,109.0,10,2024-08-08,Meeting Room in Chicago,True
+438,121,Chicago,event_space,131.0,72,2024-09-27,Event Space in Chicago,True
+439,122,Chicago,photo_studio,199.0,17,2023-08-20,Photo Studio in Chicago,True
+440,122,Chicago,workshop_space,123.0,47,2023-09-19,Workshop Space in Chicago,True
+441,122,Chicago,workshop_space,127.0,32,2023-10-19,Workshop Space in Chicago,True
+442,122,Chicago,event_space,117.0,66,2024-08-20,Event Space in Chicago,True
+443,122,Chicago,event_space,150.0,28,2024-09-21,Event Space in Chicago,True
+444,123,Chicago,meeting_room,113.0,7,2023-09-21,Meeting Room in Chicago,False
+445,124,Chicago,meeting_room,100.0,6,2023-03-07,Meeting Room in Chicago,True
+446,125,Chicago,workshop_space,82.0,31,2024-10-08,Workshop Space in Chicago,True
+447,126,Chicago,meeting_room,84.0,9,2023-01-15,Meeting Room in Chicago,True
+448,126,Chicago,meeting_room,68.0,8,2024-10-13,Meeting Room in Chicago,True
+449,126,Chicago,photo_studio,114.0,23,2024-08-30,Photo Studio in Chicago,True
+450,126,Chicago,meeting_room,67.0,10,2024-09-18,Meeting Room in Chicago,True
+451,126,Chicago,meeting_room,84.0,17,2024-08-17,Meeting Room in Chicago,True
+452,126,Chicago,meeting_room,93.0,14,2024-07-16,Meeting Room in Chicago,True
+453,127,Chicago,photo_studio,128.0,16,2023-01-28,Photo Studio in Chicago,True
+454,127,Chicago,workshop_space,85.0,20,2023-12-04,Workshop Space in Chicago,True
+455,127,Chicago,workshop_space,92.0,44,2024-04-21,Workshop Space in Chicago,True
+456,127,Chicago,photo_studio,189.0,23,2023-02-26,Photo Studio in Chicago,True
+457,127,Chicago,photo_studio,132.0,16,2023-03-11,Photo Studio in Chicago,False
+458,128,Chicago,rooftop,179.0,50,2023-08-08,Rooftop in Chicago,True
+459,128,Chicago,workshop_space,76.0,31,2024-02-11,Workshop Space in Chicago,True
+460,129,Chicago,photo_studio,149.0,22,2023-09-06,Photo Studio in Chicago,True
+461,130,Chicago,meeting_room,67.0,8,2024-11-21,Meeting Room in Chicago,True
+462,131,Chicago,event_space,118.0,78,2023-11-02,Event Space in Chicago,True
+463,131,Chicago,photo_studio,166.0,10,2024-10-07,Photo Studio in Chicago,True
+464,131,Chicago,meeting_room,107.0,13,2023-11-27,Meeting Room in Chicago,True
+465,132,Chicago,photo_studio,176.0,14,2023-10-11,Photo Studio in Chicago,True
+466,133,Chicago,meeting_room,68.0,11,2023-09-24,Meeting Room in Chicago,True
+467,133,Chicago,photo_studio,177.0,11,2024-12-19,Photo Studio in Chicago,True
+468,134,Chicago,meeting_room,114.0,12,2024-04-10,Meeting Room in Chicago,True
+469,134,Chicago,workshop_space,93.0,54,2024-12-01,Workshop Space in Chicago,True
+470,134,Chicago,event_space,116.0,98,2023-03-30,Event Space in Chicago,False
+471,134,Chicago,event_space,135.0,67,2023-12-21,Event Space in Chicago,True
+472,135,Chicago,workshop_space,119.0,20,2023-07-29,Workshop Space in Chicago,False
+473,136,Chicago,meeting_room,65.0,10,2024-07-31,Meeting Room in Chicago,True
+474,137,Chicago,meeting_room,106.0,15,2023-03-01,Meeting Room in Chicago,True
+475,137,Chicago,event_space,153.0,45,2024-10-13,Event Space in Chicago,True
+476,137,Chicago,photo_studio,119.0,12,2023-07-22,Photo Studio in Chicago,True
+477,138,Chicago,meeting_room,88.0,9,2024-02-17,Meeting Room in Chicago,True
+478,138,Chicago,meeting_room,74.0,13,2024-02-24,Meeting Room in Chicago,True
+479,138,Chicago,event_space,173.0,99,2024-06-14,Event Space in Chicago,True
+480,138,Chicago,workshop_space,85.0,56,2024-12-07,Workshop Space in Chicago,True
+481,138,Chicago,workshop_space,132.0,57,2024-12-30,Workshop Space in Chicago,True
+482,138,Chicago,photo_studio,143.0,12,2024-05-02,Photo Studio in Chicago,True
+483,139,Chicago,rooftop,141.0,68,2024-11-17,Rooftop in Chicago,True
+484,140,Chicago,event_space,151.0,52,2024-10-06,Event Space in Chicago,True
+485,140,Chicago,photo_studio,152.0,20,2024-10-29,Photo Studio in Chicago,True
+486,141,Chicago,meeting_room,77.0,9,2023-11-25,Meeting Room in Chicago,True
+487,142,Chicago,event_space,117.0,30,2024-06-07,Event Space in Chicago,True
+488,143,Chicago,meeting_room,69.0,11,2024-02-14,Meeting Room in Chicago,True
+489,143,Chicago,rooftop,148.0,72,2024-04-04,Rooftop in Chicago,True
+490,143,Chicago,workshop_space,95.0,46,2023-04-24,Workshop Space in Chicago,False
+491,144,Chicago,event_space,102.0,43,2024-01-02,Event Space in Chicago,True
+492,144,Chicago,meeting_room,107.0,7,2023-11-13,Meeting Room in Chicago,True
+493,144,Chicago,photo_studio,123.0,9,2024-08-10,Photo Studio in Chicago,True
+494,144,Chicago,workshop_space,90.0,23,2023-11-17,Workshop Space in Chicago,True
+495,144,Chicago,photo_studio,170.0,13,2024-10-16,Photo Studio in Chicago,False
+496,144,Chicago,rooftop,174.0,51,2024-01-27,Rooftop in Chicago,True
+497,145,Chicago,meeting_room,113.0,11,2023-11-23,Meeting Room in Chicago,True
+498,145,Chicago,event_space,123.0,93,2024-03-25,Event Space in Chicago,True
+499,146,Chicago,meeting_room,96.0,8,2024-03-04,Meeting Room in Chicago,True
+500,147,Chicago,event_space,102.0,53,2023-10-29,Event Space in Chicago,True
+501,148,Chicago,event_space,146.0,85,2024-12-12,Event Space in Chicago,True
+502,149,Chicago,event_space,139.0,61,2023-06-01,Event Space in Chicago,True
+503,149,Chicago,meeting_room,80.0,8,2024-03-19,Meeting Room in Chicago,False
+504,150,Chicago,event_space,157.0,99,2024-07-21,Event Space in Chicago,True
+505,150,Chicago,meeting_room,107.0,18,2024-11-04,Meeting Room in Chicago,True
+506,151,Chicago,photo_studio,209.0,16,2024-07-07,Photo Studio in Chicago,True
+507,151,Chicago,workshop_space,121.0,56,2024-12-03,Workshop Space in Chicago,True
+508,151,Chicago,photo_studio,127.0,28,2023-08-15,Photo Studio in Chicago,True
+509,151,Chicago,meeting_room,66.0,14,2024-12-11,Meeting Room in Chicago,True
+510,151,Chicago,rooftop,148.0,52,2024-07-03,Rooftop in Chicago,True
+511,152,Chicago,event_space,96.0,68,2024-08-08,Event Space in Chicago,True
+512,153,Chicago,workshop_space,138.0,31,2023-02-22,Workshop Space in Chicago,True
+513,153,Chicago,event_space,106.0,36,2023-10-11,Event Space in Chicago,True
+514,154,Chicago,photo_studio,130.0,29,2023-01-21,Photo Studio in Chicago,True
+515,154,Chicago,event_space,148.0,86,2023-12-10,Event Space in Chicago,True
+516,154,Chicago,meeting_room,102.0,19,2023-05-25,Meeting Room in Chicago,True
+517,155,Chicago,rooftop,129.0,105,2023-04-15,Rooftop in Chicago,True
+518,155,Chicago,rooftop,141.0,121,2024-05-02,Rooftop in Chicago,True
+519,155,Chicago,photo_studio,207.0,25,2023-02-14,Photo Studio in Chicago,True
+520,156,Chicago,event_space,116.0,43,2024-10-23,Event Space in Chicago,True
+521,157,Chicago,photo_studio,118.0,17,2023-10-29,Photo Studio in Chicago,True
+522,158,Chicago,event_space,125.0,65,2024-09-19,Event Space in Chicago,True
+523,159,Chicago,photo_studio,187.0,12,2023-09-26,Photo Studio in Chicago,False
+524,160,Chicago,meeting_room,80.0,19,2024-10-17,Meeting Room in Chicago,True
+525,161,Chicago,meeting_room,67.0,19,2024-09-27,Meeting Room in Chicago,True
+526,162,Chicago,workshop_space,121.0,34,2023-03-03,Workshop Space in Chicago,True
+527,163,Chicago,meeting_room,68.0,8,2024-06-20,Meeting Room in Chicago,True
+528,163,Chicago,rooftop,184.0,111,2024-03-02,Rooftop in Chicago,True
+529,163,Chicago,photo_studio,195.0,10,2023-12-28,Photo Studio in Chicago,False
+530,163,Chicago,workshop_space,116.0,36,2024-09-23,Workshop Space in Chicago,False
+531,163,Chicago,meeting_room,67.0,17,2024-02-20,Meeting Room in Chicago,True
+532,163,Chicago,workshop_space,93.0,43,2023-12-01,Workshop Space in Chicago,True
+533,164,Chicago,event_space,131.0,44,2023-09-12,Event Space in Chicago,True
+534,165,Chicago,photo_studio,128.0,23,2024-09-23,Photo Studio in Chicago,False
+535,165,Chicago,event_space,173.0,69,2023-06-14,Event Space in Chicago,False
+536,165,Chicago,event_space,173.0,76,2023-09-02,Event Space in Chicago,True
+537,165,Chicago,meeting_room,84.0,17,2024-11-26,Meeting Room in Chicago,True
+538,166,Chicago,workshop_space,120.0,42,2024-08-30,Workshop Space in Chicago,True
+539,166,Chicago,rooftop,144.0,61,2024-06-17,Rooftop in Chicago,True
+540,166,Chicago,rooftop,173.0,149,2023-03-30,Rooftop in Chicago,True
+541,166,Austin,rooftop,250.0,45,2023-11-30,Rooftop in Austin,True
+542,166,Austin,workshop_space,121.0,56,2024-12-19,Workshop Space in Austin,True
+543,166,Austin,event_space,143.0,56,2024-08-02,Event Space in Austin,True
+544,166,Austin,rooftop,152.0,49,2024-09-19,Rooftop in Austin,True
+545,167,Austin,workshop_space,147.0,26,2023-03-02,Workshop Space in Austin,True
+546,167,Austin,meeting_room,87.0,7,2023-04-18,Meeting Room in Austin,True
+547,167,Austin,event_space,184.0,76,2024-11-11,Event Space in Austin,True
+548,168,Austin,workshop_space,85.0,51,2024-02-25,Workshop Space in Austin,True
+549,169,Austin,workshop_space,133.0,58,2024-05-12,Workshop Space in Austin,True
+550,170,Austin,event_space,179.0,45,2023-11-01,Event Space in Austin,True
+551,170,Austin,event_space,187.0,55,2023-08-23,Event Space in Austin,True
+552,171,Austin,workshop_space,121.0,22,2024-02-17,Workshop Space in Austin,True
+553,171,Austin,workshop_space,122.0,40,2024-07-07,Workshop Space in Austin,True
+554,172,Austin,workshop_space,102.0,35,2023-12-28,Workshop Space in Austin,True
+555,172,Austin,workshop_space,120.0,43,2024-08-27,Workshop Space in Austin,True
+556,172,Austin,event_space,145.0,97,2023-09-03,Event Space in Austin,True
+557,172,Austin,meeting_room,124.0,16,2023-01-26,Meeting Room in Austin,False
+558,172,Austin,meeting_room,121.0,16,2024-05-26,Meeting Room in Austin,True
+559,172,Austin,photo_studio,155.0,16,2024-12-11,Photo Studio in Austin,True
+560,173,Austin,photo_studio,177.0,10,2024-07-07,Photo Studio in Austin,True
+561,173,Austin,meeting_room,118.0,9,2023-01-05,Meeting Room in Austin,True
+562,173,Austin,event_space,136.0,43,2023-09-11,Event Space in Austin,True
+563,173,Austin,photo_studio,189.0,7,2023-02-22,Photo Studio in Austin,True
+564,174,Austin,photo_studio,190.0,13,2023-01-31,Photo Studio in Austin,True
+565,174,Austin,rooftop,217.0,134,2024-04-08,Rooftop in Austin,True
+566,175,Austin,photo_studio,146.0,19,2024-04-29,Photo Studio in Austin,True
+567,176,Austin,workshop_space,127.0,44,2023-02-03,Workshop Space in Austin,True
+568,176,Austin,event_space,132.0,93,2023-11-13,Event Space in Austin,True
+569,176,Austin,photo_studio,188.0,11,2023-01-01,Photo Studio in Austin,True
+570,176,Austin,workshop_space,149.0,45,2023-07-31,Workshop Space in Austin,True
+571,176,Austin,photo_studio,186.0,14,2023-09-06,Photo Studio in Austin,True
+572,176,Austin,workshop_space,139.0,23,2023-02-04,Workshop Space in Austin,True
+573,176,Austin,meeting_room,83.0,18,2023-10-28,Meeting Room in Austin,True
+574,176,Austin,meeting_room,88.0,17,2023-09-07,Meeting Room in Austin,False
+575,176,Austin,photo_studio,193.0,18,2024-06-15,Photo Studio in Austin,True
+576,177,Austin,event_space,132.0,29,2024-07-30,Event Space in Austin,True
+577,177,Austin,event_space,156.0,92,2023-09-20,Event Space in Austin,True
+578,178,Austin,meeting_room,75.0,9,2024-07-03,Meeting Room in Austin,True
+579,178,Austin,event_space,124.0,83,2023-05-21,Event Space in Austin,True
+580,178,Austin,workshop_space,90.0,42,2023-03-24,Workshop Space in Austin,True
+581,178,Miami,event_space,119.0,39,2023-12-15,Event Space in Miami,True
+582,179,Miami,workshop_space,134.0,15,2024-12-27,Workshop Space in Miami,True
+583,179,Miami,photo_studio,180.0,10,2023-12-05,Photo Studio in Miami,True
+584,179,Miami,meeting_room,80.0,19,2023-09-22,Meeting Room in Miami,True
+585,179,Miami,event_space,203.0,99,2024-01-16,Event Space in Miami,True
+586,179,Miami,workshop_space,105.0,55,2023-11-14,Workshop Space in Miami,False
+587,179,Miami,rooftop,182.0,39,2023-08-03,Rooftop in Miami,True
+588,179,Miami,photo_studio,143.0,27,2024-04-14,Photo Studio in Miami,True
+589,179,Miami,photo_studio,144.0,9,2024-12-11,Photo Studio in Miami,False
+590,179,Miami,event_space,128.0,43,2023-01-13,Event Space in Miami,True
+591,179,Miami,photo_studio,174.0,22,2023-02-22,Photo Studio in Miami,True
+592,179,Miami,photo_studio,188.0,27,2023-07-27,Photo Studio in Miami,True
+593,179,Miami,meeting_room,84.0,7,2024-06-10,Meeting Room in Miami,True
+594,180,Miami,rooftop,201.0,83,2024-07-20,Rooftop in Miami,False
+595,180,Miami,meeting_room,139.0,9,2024-12-29,Meeting Room in Miami,False
+596,180,Miami,meeting_room,115.0,12,2024-09-30,Meeting Room in Miami,True
+597,180,Miami,photo_studio,246.0,21,2023-09-21,Photo Studio in Miami,True
+598,180,Miami,event_space,125.0,38,2024-11-21,Event Space in Miami,True
+599,180,Miami,photo_studio,189.0,10,2024-11-15,Photo Studio in Miami,False
+600,180,Miami,photo_studio,178.0,27,2023-04-05,Photo Studio in Miami,True
+601,181,Miami,event_space,149.0,33,2023-11-18,Event Space in Miami,True
+602,181,Miami,event_space,200.0,84,2023-03-08,Event Space in Miami,True
+603,181,Miami,meeting_room,125.0,19,2024-07-21,Meeting Room in Miami,True
+604,182,Miami,event_space,172.0,57,2023-04-16,Event Space in Miami,True
+605,182,Miami,meeting_room,122.0,17,2024-08-20,Meeting Room in Miami,True
+606,182,Miami,workshop_space,127.0,17,2023-03-02,Workshop Space in Miami,True
+607,183,Miami,photo_studio,230.0,20,2023-06-02,Photo Studio in Miami,True
+608,184,Miami,workshop_space,134.0,45,2023-04-08,Workshop Space in Miami,False
+609,184,Miami,meeting_room,100.0,15,2023-12-03,Meeting Room in Miami,True
+610,185,Miami,workshop_space,141.0,15,2024-07-24,Workshop Space in Miami,True
+611,185,Miami,event_space,132.0,81,2024-02-07,Event Space in Miami,True
+612,186,Miami,meeting_room,92.0,14,2023-11-15,Meeting Room in Miami,True
+613,186,Miami,event_space,172.0,31,2023-08-09,Event Space in Miami,True
+614,186,Miami,event_space,180.0,32,2023-11-05,Event Space in Miami,False
+615,186,Miami,workshop_space,155.0,58,2023-03-20,Workshop Space in Miami,True
+616,186,Miami,meeting_room,121.0,19,2023-12-25,Meeting Room in Miami,True
+617,187,Miami,workshop_space,119.0,49,2023-04-27,Workshop Space in Miami,True
+618,187,Miami,photo_studio,152.0,24,2024-05-18,Photo Studio in Miami,False
+619,187,Miami,photo_studio,234.0,19,2023-12-15,Photo Studio in Miami,True
+620,187,Miami,meeting_room,86.0,15,2023-11-08,Meeting Room in Miami,True
+621,187,Miami,meeting_room,138.0,10,2023-09-20,Meeting Room in Miami,True
+622,187,Miami,event_space,190.0,28,2023-03-24,Event Space in Miami,True
+623,187,Miami,workshop_space,128.0,44,2023-08-03,Workshop Space in Miami,True
+624,187,Miami,event_space,120.0,95,2023-05-12,Event Space in Miami,True
+625,187,Miami,rooftop,177.0,102,2024-08-22,Rooftop in Miami,True
